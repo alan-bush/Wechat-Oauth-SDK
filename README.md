@@ -30,7 +30,7 @@ python setup.py install
 
 用于获取access_token
 
-- 初始化 **WechatCustomer(APP_ID,APP_SECRET_KEY)**
+- 初始化 **WechatToken(APP_ID,APP_SECRET_KEY)**
 
 - 函数 get_access_token：
   - 描述：主动向用户发送文本消息
